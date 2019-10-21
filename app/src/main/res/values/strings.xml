@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Movie Catalogue</string>
+    <string name="title_home">Home</string>
+
+    <string name="title_menu_movies">Movies</string>
+    <string name="title_menu_tvshow">TV Show</string>
+
+    <string name="title_activity_movie_detail">MovieDetailActivity</string>
+    <string name="image_poster">Image poster</string>
+    <string name="description">Description</string>
+    <string name="title">Title</string>
+    <string name="languange">English</string>
+    <string name="change_language_settings">Language Configuration</string>
+</resources>

@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Katalog Film</string>
+    <string name="title_home">Beranda</string>
+
+    <string name="title_menu_movies">Film</string>
+    <string name="title_menu_tvshow">Acara TV</string>
+
+    <string name="title_activity_movie_detail">Detail Aktivitas Film</string>
+    <string name="image_poster">Gambar poster</string>
+    <string name="description">Deskripsi</string>
+    <string name="title">Judul</string>
+    <string name="languange">Indonesia</string>
+    <string name="change_language_settings">Konfigurasi Bahasa</string>
+</resources>
